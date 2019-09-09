@@ -1,12 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Todo from './Todo';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
+import Gozsh from './component/Gozsh';
 
 
-ReactDOM.render(<Todo />, document.getElementById('root'));
+ReactDOM.render(<Gozsh />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
