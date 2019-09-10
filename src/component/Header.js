@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-
 class HeaderZsh extends  Component  {
     render() {
        return (
@@ -7,6 +6,5 @@ class HeaderZsh extends  Component  {
         )
     }
 }
-
 
 export default HeaderZsh;

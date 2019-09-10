@@ -5,6 +5,11 @@ Thanks _Onigbajumo .G_
 
 Thanks O.G am glad we will all be working from here and we are going to finally learn and aprreciate how to use github from now onwards. I am excited about the upcoming projects and i wil implore us all to do our part so as to be efficient in finishing the upcoming task. 
 
+Thanks O.G for this, i was able to learn new things & also work effectively with git.
+I had a challenge with linking css to my component but I have a good team lead.
+Let's all keep up the good work....
+Thank you _Juliet_
+
 so i am expecting everyone to update the README.md as soon as possible
 
 
