@@ -9,3 +9,5 @@ Thanks O.G for this, i was able to learn new things & also work effectively with
 I had a challenge with linking css to my component but I have a good team lead.
 Let's all keep up the good work....
 Thank you _Juliet_
+so i am expecting everyone to update the README.md as soon as possible
+
