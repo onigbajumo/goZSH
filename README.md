@@ -5,8 +5,6 @@ Thanks _Onigbajumo .G_
 
 Thanks O.G am glad we will all be working from here and we are going to finally learn and aprreciate how to use github from now onwards. I am excited about the upcoming projects and i wil implore us all to do our part so as to be efficient in finishing the upcoming task. 
 
-<<<<<<< HEAD
-=======
 so i am expecting everyone to update the README.md as soon as possible
 
->>>>>>> fc2f5ffa9ec1717c41ab43bfc770393d30e9b6d9
+
