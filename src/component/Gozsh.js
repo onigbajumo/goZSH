@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import '../cssFile/Gozsh.css';
 import Sidebar from './Sidebar';
-import HeaderZsh from './Header'
+import HeaderZsh from './Header';
 class Gozsh extends Component{
     render(){
         return (
