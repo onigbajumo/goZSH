@@ -8,6 +8,11 @@ class Gozsh extends Component{
             <h1> Welcome to my first Todo App</h1>
             <Sidebar/>
           </div>
+
+           <div>
+                <h1> Welcome to my first Todo App</h1>
+                <HeaderZsh title="My own header component"/>
+           </div>
         )
     }
 }
