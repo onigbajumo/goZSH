@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 class HeaderZsh extends Component{
     render(){
         return (
-           <h3>{props.title}</h3>
+           <h3>{this.props.title}</h3>
         )
     }
 }
