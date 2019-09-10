@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import Gozsh from './component/Gozsh';
+import Sidebar from './component/Sidebar';
+
 
 
 ReactDOM.render(<Gozsh />, document.getElementById('root'));
