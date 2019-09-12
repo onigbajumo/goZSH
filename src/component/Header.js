@@ -1,4 +1,6 @@
 import React, {Component} from 'react';
+import '../cssFile/Header.css';
+
 class HeaderZsh extends Component{
     render(){
         return (
@@ -6,4 +8,5 @@ class HeaderZsh extends Component{
         )
     }
 }
+
 export default HeaderZsh;
