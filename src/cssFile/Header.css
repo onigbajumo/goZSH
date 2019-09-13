@@ -1,0 +1,18 @@
+.links{
+    display: flex;
+    background-color:white; 
+    justify-content: space-between;
+    width: 100%;
+}
+img{
+    width: 50px;
+    height: 30px;
+}
+.links a{
+    text-decoration: none;
+    
+}
+button{
+    border-radius: 150px; 
+    background-color: green
+}
