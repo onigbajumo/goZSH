@@ -1,0 +1,27 @@
+.direction{
+    width: 75%;
+    height: 500px;
+    background-color: #fff;
+    margin: 20px;
+    color: rgb(150, 149, 148);
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px;
+    box-sizing: border-box;
+    float: right;
+}
+.header{
+   
+    display: flex;
+    width: 100%;
+    color: rgb(146, 65, 65);
+    justify-content: space-evenly;
+    box-sizing: border-box;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(146, 65, 65);
+}
+h4{
+    border-bottom: 1px solid red
+}
