@@ -8,9 +8,7 @@ class Gozsh extends Component{
     render(){
         return (
           <div>
-            <h1> Welcome to my first Todo App</h1>
-            <Sidebar/>
-            <HeaderZsh title="My own header component"/>
+           <HeaderZsh />
            </div>
         )
     }
