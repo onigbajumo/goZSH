@@ -1,0 +1,30 @@
+.hover-city {
+  /* background: rgb(224, 188, 188); */
+  height: auto;
+  box-shadow: 1px 0px 1px;
+  margin-right: 30px;
+  justify-content: space-around;
+  display: flex;
+  width: 200%;
+  position: relative;
+  z-index: 10;
+  background: white;
+}
+
+a {
+  text-decoration: none;
+  background: white;
+}
+.color {
+  background: white;
+  margin: 20px;
+
+}
+.main-hover {
+  width: 100%;
+  background: white;
+}
+.named {
+  margin: 10px;
+  background: white;
+}

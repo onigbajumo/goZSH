@@ -22,6 +22,12 @@ a{
     text-decoration: none;
     color: rgb(146, 65, 65);
 }
-h4{
-    border-bottom: 1px solid red
+.close{
+    display: none;
+}
+.state-close{
+    display: flex;
+}
+.state-close:hover .close{
+    display: block;
 }
