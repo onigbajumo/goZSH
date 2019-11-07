@@ -2,13 +2,18 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-// import Gozsh from './component/Gozsh';
+import Body from './component/Body'
+import Gozsh from './component/Gozsh';
 import Sidebar from './component/Sidebar';
-import Direction from './component/Direction'
+import Direction from './component/Direction';
+import City from './component/City';
+import State from './component/State';
+import Travel from './component/Travel';
+import Router from './Router';
 
 
 
-ReactDOM.render(<Direction />, document.getElementById('root'));
+ReactDOM.render(<Router />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
